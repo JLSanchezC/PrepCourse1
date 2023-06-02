@@ -1,2 +1,1 @@
-# PrepCourse1
-Este es un repositorio de prueba. No se usa más. 
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escritorio para poder editarlo. 
